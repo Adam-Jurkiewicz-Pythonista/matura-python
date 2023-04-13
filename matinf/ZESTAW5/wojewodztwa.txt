@@ -1,0 +1,17 @@
+ID_WOJ;NAZWA;POW_LOWNA
+w03;zachodniopomorskie;7726
+w08;lodzkie;2469
+w04;malopolskie;1991
+w13;kujawsko-pomorskie;3676
+w11;podlaskie;3813
+w10;slaskie;3061
+w05;opolskie;2329
+w09;lubuskie;6681
+w12;pomorskie;5730
+w01;wielkopolskie;6621
+w07;warminsko-mazurskie;6932
+w06;swietokrzyskie;2251
+w02;dolnoslaskie;5521
+w15;podkarpackie;4891
+w16;lubelskie;3290
+w14;mazowieckie;4202

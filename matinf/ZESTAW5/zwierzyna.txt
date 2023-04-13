@@ -1,0 +1,19 @@
+ID_ZWIERZ;NAZWA;TYP
+z01;bazant;drobna
+z02;krzyzowka;drobna
+z03;pizmak;drobna
+z04;muflon;gruba
+z05;lis;drobna
+z06;los;gruba
+z07;kuna lesna;drobna
+z08;dziki krolik;drobna
+z09;sarna;gruba
+z10;jenot;drobna
+z11;dzik;gruba
+z12;jelen szlachetny;gruba
+z13;kuropatwa;drobna
+z14;ges gegawa;drobna
+z15;ges zbozowa;drobna
+z16;daniel;gruba
+z17;zajac szarak;drobna
+z18;cyraneczka;drobna

@@ -1,0 +1,13 @@
+symbol;temat
+a1;Informatyka
+a1a1;Programowanie
+a1a2;Sieci komputerowe
+a1a3;Grafika komputerowa
+a1a1a1;Python
+a1a1a2;C++
+a1a2a1;Model ISO OSI
+a1a4;Programowanie aplikacji
+a1a4a1;Html i css
+a1a4a2;JS
+a1a4a3;PHP
+a1a4a2a1;Node

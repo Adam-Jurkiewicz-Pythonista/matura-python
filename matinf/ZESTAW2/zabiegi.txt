@@ -1,0 +1,807 @@
+ID_POBYTU;ZABIEG
+1144;hipoterapia
+1160;kapiel solankowa
+1088;sauna
+1280;inhalacje solankowe
+1105;kapiel solankowa
+1092;hydrosun
+1410;hipoterapia
+1084;krioterapia miejscowa
+1088;ultrafonoforeza
+1149;bioptron
+1204;elektrostymulacja
+1059;kapiel borowinowa
+1070;hydrosun
+1046;sauna
+1202;kapiel borowinowa
+1246;masaz podwodny
+1290;fasony siarczkowe
+1390;kapiel solankowa
+1197;krioterapia miejscowa
+1363;kapiel solankowa
+1337;inhalacje solankowe
+1056;elektrostymulacja
+1379;fasony siarczkowe
+1311;oklady parafinowe
+1351;inhalacje pneumatyczne
+1198;hipoterapia
+1340;kapiel solankowa
+1249;sauna
+1187;ultrafonoforeza
+1496;bioptron
+1396;oklady parafinowe
+1333;kapiel borowinowa
+1062;oklady parafinowe
+1259;hipoterapia
+1491;fasony siarczkowe
+1420;hipoterapia
+1446;kapiel solankowa
+1485;kapiel solankowa
+1368;inhalacje solankowe
+1086;oklady parafinowe
+1147;elektrostymulacja
+1332;bicze szkockie
+1438;bicze szkockie
+1105;sauna
+1309;krioterapia miejscowa
+1196;inhalacje solankowe
+1119;oklady parafinowe
+1249;bioptron
+1353;fasony siarczkowe
+1421;bioptron
+1249;bicze szkockie
+1160;kapiel borowinowa
+1220;bioptron
+1301;masaz podwodny
+1477;fasony siarczkowe
+1124;kapiel borowinowa
+1250;inhalacje solankowe
+1172;hipoterapia
+1255;hydrosun
+1379;ultrafonoforeza
+1117;bioptron
+1224;gimnastyka oddechowa
+1424;inhalacje pneumatyczne
+1493;fasony siarczkowe
+1410;bicze szkockie
+1351;bicze szkockie
+1272;fasony siarczkowe
+1266;gimnastyka oddechowa
+1255;ultrafonoforeza
+1154;hydrosun
+1336;kapiel borowinowa
+1290;kapiel borowinowa
+1430;hydrosun
+1220;kapiel borowinowa
+1177;ultrafonoforeza
+1303;inhalacje pneumatyczne
+1066;inhalacje pneumatyczne
+1169;kapiel borowinowa
+1303;inhalacje solankowe
+1422;bioptron
+1323;hipoterapia
+1332;gimnastyka oddechowa
+1117;kapiel solankowa
+1220;masaz podwodny
+1316;elektrostymulacja
+1214;elektrostymulacja
+1196;kapiel borowinowa
+1237;hipoterapia
+1333;inhalacje solankowe
+1326;fasony siarczkowe
+1361;kapiel solankowa
+1111;krioterapia miejscowa
+1046;oklady parafinowe
+1149;bicze szkockie
+1433;hipoterapia
+1307;krioterapia miejscowa
+1416;inhalacje solankowe
+1189;fasony siarczkowe
+1128;kapiel solankowa
+1413;kapiel siarkowa
+1455;elektrostymulacja
+1396;fasony siarczkowe
+1296;oklady parafinowe
+1369;kapiel borowinowa
+1482;hydrosun
+1472;masaz podwodny
+1275;hipoterapia
+1361;hydrosun
+1382;elektrostymulacja
+1111;oklady parafinowe
+1277;krioterapia miejscowa
+1192;sauna
+1509;ultrafonoforeza
+1396;elektrostymulacja
+1303;bicze szkockie
+1140;gimnastyka oddechowa
+1270;kapiel borowinowa
+1493;inhalacje pneumatyczne
+1349;sauna
+1404;hipoterapia
+1187;inhalacje pneumatyczne
+1083;hydrosun
+1088;hipoterapia
+1298;inhalacje solankowe
+1422;bicze szkockie
+1169;kapiel siarkowa
+1062;ultrafonoforeza
+1292;kapiel siarkowa
+1128;kapiel siarkowa
+1341;kapiel siarkowa
+1434;diadynamik
+1046;krioterapia miejscowa
+1404;kapiel siarkowa
+1381;masaz podwodny
+1505;krioterapia miejscowa
+1336;kapiel siarkowa
+1214;bicze szkockie
+1299;kapiel borowinowa
+1154;hipoterapia
+1393;diadynamik
+1506;kapiel siarkowa
+1285;kapiel borowinowa
+1236;inhalacje solankowe
+1285;gimnastyka oddechowa
+1320;inhalacje pneumatyczne
+1472;hydrosun
+1316;sauna
+1418;krioterapia miejscowa
+1102;inhalacje pneumatyczne
+1209;masaz podwodny
+1132;gimnastyka oddechowa
+1114;hydrosun
+1491;masaz podwodny
+1349;hydrosun
+1469;gimnastyka oddechowa
+1408;elektrostymulacja
+1218;kapiel solankowa
+1185;kapiel solankowa
+1124;masaz podwodny
+1218;sauna
+1408;bioptron
+1393;kapiel siarkowa
+1327;hydrosun
+1224;diadynamik
+1086;sauna
+1446;oklady parafinowe
+1514;kapiel borowinowa
+1172;inhalacje pneumatyczne
+1277;kapiel siarkowa
+1147;hipoterapia
+1253;kapiel solankowa
+1451;masaz podwodny
+1509;hydrosun
+1465;elektrostymulacja
+1242;ultrafonoforeza
+1066;fasony siarczkowe
+1488;oklady parafinowe
+1100;oklady parafinowe
+1404;sauna
+1329;kapiel borowinowa
+1438;gimnastyka oddechowa
+1218;ultrafonoforeza
+1343;fasony siarczkowe
+1139;diadynamik
+1143;inhalacje solankowe
+1458;inhalacje solankowe
+1129;sauna
+1443;masaz podwodny
+1169;sauna
+1050;ultrafonoforeza
+1468;inhalacje solankowe
+1427;masaz podwodny
+1463;bicze szkockie
+1147;kapiel solankowa
+1076;fasony siarczkowe
+1266;oklady parafinowe
+1313;kapiel siarkowa
+1498;inhalacje pneumatyczne
+1505;elektrostymulacja
+1212;oklady parafinowe
+1323;kapiel borowinowa
+1484;sauna
+1062;gimnastyka oddechowa
+1229;hydrosun
+1239;hipoterapia
+1358;masaz podwodny
+1275;kapiel solankowa
+1046;bicze szkockie
+1444;fasony siarczkowe
+1358;sauna
+1468;inhalacje pneumatyczne
+1482;gimnastyka oddechowa
+1363;gimnastyka oddechowa
+1226;kapiel siarkowa
+1363;kapiel siarkowa
+1114;kapiel siarkowa
+1441;elektrostymulacja
+1097;bioptron
+1455;inhalacje solankowe
+1427;bioptron
+1305;bioptron
+1189;diadynamik
+1199;bicze szkockie
+1102;inhalacje solankowe
+1209;kapiel borowinowa
+1403;sauna
+1078;krioterapia miejscowa
+1069;kapiel siarkowa
+1275;kapiel borowinowa
+1117;oklady parafinowe
+1292;bicze szkockie
+1382;fasony siarczkowe
+1403;gimnastyka oddechowa
+1196;ultrafonoforeza
+1327;hipoterapia
+1371;masaz podwodny
+1100;fasony siarczkowe
+1145;bicze szkockie
+1496;sauna
+1406;bioptron
+1408;masaz podwodny
+1264;ultrafonoforeza
+1214;kapiel siarkowa
+1064;hipoterapia
+1382;oklady parafinowe
+1337;sauna
+1199;kapiel borowinowa
+1066;gimnastyka oddechowa
+1520;gimnastyka oddechowa
+1301;elektrostymulacja
+1288;masaz podwodny
+1438;elektrostymulacja
+1283;kapiel borowinowa
+1348;inhalacje solankowe
+1119;masaz podwodny
+1313;diadynamik
+1102;hipoterapia
+1351;oklady parafinowe
+1078;elektrostymulacja
+1329;krioterapia miejscowa
+1396;ultrafonoforeza
+1309;inhalacje solankowe
+1376;kapiel siarkowa
+1439;kapiel siarkowa
+1369;bioptron
+1507;inhalacje solankowe
+1076;bicze szkockie
+1463;bioptron
+1458;gimnastyka oddechowa
+1423;inhalacje pneumatyczne
+1076;inhalacje solankowe
+1501;kapiel solankowa
+1197;bicze szkockie
+1366;bioptron
+1304;masaz podwodny
+1293;fasony siarczkowe
+1313;oklady parafinowe
+1212;masaz podwodny
+1309;masaz podwodny
+1376;masaz podwodny
+1338;hydrosun
+1198;kapiel solankowa
+1246;bioptron
+1223;inhalacje pneumatyczne
+1192;hydrosun
+1509;kapiel siarkowa
+1336;elektrostymulacja
+1140;oklady parafinowe
+1064;elektrostymulacja
+1167;fasony siarczkowe
+1510;masaz podwodny
+1224;masaz podwodny
+1418;oklady parafinowe
+1469;diadynamik
+1272;kapiel borowinowa
+1133;kapiel siarkowa
+1517;ultrafonoforeza
+1129;inhalacje pneumatyczne
+1069;krioterapia miejscowa
+1270;oklady parafinowe
+1520;sauna
+1237;inhalacje solankowe
+1386;fasony siarczkowe
+1348;kapiel borowinowa
+1244;fasony siarczkowe
+1486;diadynamik
+1189;bioptron
+1143;oklady parafinowe
+1145;bioptron
+1301;kapiel solankowa
+1304;kapiel siarkowa
+1292;hipoterapia
+1454;fasony siarczkowe
+1298;masaz podwodny
+1305;oklady parafinowe
+1448;kapiel borowinowa
+1506;gimnastyka oddechowa
+1506;hipoterapia
+1441;hipoterapia
+1226;bicze szkockie
+1444;bioptron
+1136;inhalacje pneumatyczne
+1313;inhalacje solankowe
+1167;bicze szkockie
+1086;ultrafonoforeza
+1455;krioterapia miejscowa
+1140;masaz podwodny
+1127;hipoterapia
+1420;kapiel siarkowa
+1277;kapiel solankowa
+1209;sauna
+1477;inhalacje solankowe
+1272;oklady parafinowe
+1304;inhalacje solankowe
+1236;masaz podwodny
+1505;fasony siarczkowe
+1301;oklady parafinowe
+1485;kapiel borowinowa
+1510;fasony siarczkowe
+1277;ultrafonoforeza
+1257;masaz podwodny
+1089;sauna
+1229;kapiel solankowa
+1074;oklady parafinowe
+1050;kapiel solankowa
+1187;bioptron
+1403;kapiel siarkowa
+1119;elektrostymulacja
+1084;kapiel solankowa
+1355;inhalacje solankowe
+1421;masaz podwodny
+1435;diadynamik
+1169;bicze szkockie
+1214;inhalacje solankowe
+1206;kapiel solankowa
+1441;kapiel solankowa
+1275;gimnastyka oddechowa
+1263;masaz podwodny
+1206;bioptron
+1149;oklady parafinowe
+1212;ultrafonoforeza
+1423;krioterapia miejscowa
+1277;fasony siarczkowe
+1135;masaz podwodny
+1059;ultrafonoforeza
+1490;bioptron
+1253;inhalacje pneumatyczne
+1097;kapiel siarkowa
+1264;kapiel solankowa
+1408;diadynamik
+1263;fasony siarczkowe
+1127;bioptron
+1121;oklady parafinowe
+1263;diadynamik
+1223;oklady parafinowe
+1086;kapiel borowinowa
+1410;inhalacje solankowe
+1422;elektrostymulacja
+1180;diadynamik
+1204;sauna
+1293;inhalacje solankowe
+1303;kapiel siarkowa
+1349;ultrafonoforeza
+1180;inhalacje pneumatyczne
+1410;kapiel solankowa
+1390;hipoterapia
+1421;bicze szkockie
+1490;inhalacje solankowe
+1239;kapiel solankowa
+1242;kapiel solankowa
+1319;gimnastyka oddechowa
+1053;ultrafonoforeza
+1349;bicze szkockie
+1446;bicze szkockie
+1468;hipoterapia
+1451;hydrosun
+1204;masaz podwodny
+1477;gimnastyka oddechowa
+1389;gimnastyka oddechowa
+1422;kapiel siarkowa
+1065;oklady parafinowe
+1338;masaz podwodny
+1433;hydrosun
+1403;bioptron
+1361;oklady parafinowe
+1333;diadynamik
+1124;elektrostymulacja
+1355;kapiel solankowa
+1309;ultrafonoforeza
+1111;ultrafonoforeza
+1073;krioterapia miejscowa
+1496;hydrosun
+1242;hydrosun
+1398;masaz podwodny
+1253;krioterapia miejscowa
+1477;kapiel borowinowa
+1512;diadynamik
+1215;diadynamik
+1074;bioptron
+1374;kapiel borowinowa
+1178;inhalacje solankowe
+1398;sauna
+1484;kapiel borowinowa
+1073;ultrafonoforeza
+1309;oklady parafinowe
+1371;oklady parafinowe
+1262;hydrosun
+1341;gimnastyka oddechowa
+1136;gimnastyka oddechowa
+1209;elektrostymulacja
+1159;inhalacje solankowe
+1229;sauna
+1490;hipoterapia
+1381;kapiel borowinowa
+1250;bioptron
+1307;kapiel solankowa
+1451;sauna
+1177;bioptron
+1183;kapiel solankowa
+1376;diadynamik
+1505;gimnastyka oddechowa
+1233;inhalacje pneumatyczne
+1416;diadynamik
+1233;masaz podwodny
+1327;bicze szkockie
+1304;kapiel solankowa
+1185;ultrafonoforeza
+1307;ultrafonoforeza
+1246;diadynamik
+1114;inhalacje solankowe
+1164;bioptron
+1178;kapiel siarkowa
+1329;bicze szkockie
+1349;kapiel siarkowa
+1434;oklady parafinowe
+1151;gimnastyka oddechowa
+1517;oklady parafinowe
+1270;sauna
+1484;inhalacje solankowe
+1226;bioptron
+1434;gimnastyka oddechowa
+1396;kapiel borowinowa
+1056;masaz podwodny
+1485;fasony siarczkowe
+1392;hydrosun
+1469;elektrostymulacja
+1326;elektrostymulacja
+1196;hydrosun
+1454;oklady parafinowe
+1140;hydrosun
+1163;diadynamik
+1050;gimnastyka oddechowa
+1463;oklady parafinowe
+1180;kapiel siarkowa
+1133;bioptron
+1465;fasony siarczkowe
+1230;kapiel solankowa
+1140;sauna
+1366;elektrostymulacja
+1383;masaz podwodny
+1196;gimnastyka oddechowa
+1164;ultrafonoforeza
+1262;bicze szkockie
+1323;bioptron
+1244;diadynamik
+1249;fasony siarczkowe
+1202;bioptron
+1230;inhalacje solankowe
+1069;gimnastyka oddechowa
+1266;inhalacje solankowe
+1257;fasony siarczkowe
+1288;hipoterapia
+1423;gimnastyka oddechowa
+1443;elektrostymulacja
+1498;hipoterapia
+1444;hydrosun
+1088;elektrostymulacja
+1195;elektrostymulacja
+1204;krioterapia miejscowa
+1053;kapiel siarkowa
+1081;sauna
+1073;hydrosun
+1379;sauna
+1270;ultrafonoforeza
+1108;kapiel siarkowa
+1220;fasony siarczkowe
+1418;masaz podwodny
+1460;fasony siarczkowe
+1296;hydrosun
+1406;inhalacje solankowe
+1416;ultrafonoforeza
+1102;gimnastyka oddechowa
+1326;gimnastyka oddechowa
+1461;ultrafonoforeza
+1183;masaz podwodny
+1319;hipoterapia
+1214;gimnastyka oddechowa
+1246;hydrosun
+1092;elektrostymulacja
+1275;inhalacje pneumatyczne
+1446;masaz podwodny
+1480;kapiel siarkowa
+1135;hipoterapia
+1486;ultrafonoforeza
+1472;gimnastyka oddechowa
+1088;bioptron
+1264;oklady parafinowe
+1514;diadynamik
+1504;gimnastyka oddechowa
+1455;sauna
+1121;kapiel solankowa
+1320;bioptron
+1088;masaz podwodny
+1239;elektrostymulacja
+1114;sauna
+1062;sauna
+1482;masaz podwodny
+1246;elektrostymulacja
+1512;masaz podwodny
+1078;bicze szkockie
+1301;bicze szkockie
+1514;elektrostymulacja
+1086;hydrosun
+1285;bicze szkockie
+1332;fasony siarczkowe
+1514;kapiel siarkowa
+1343;masaz podwodny
+1458;hipoterapia
+1439;kapiel solankowa
+1353;inhalacje solankowe
+1469;hydrosun
+1072;inhalacje solankowe
+1108;diadynamik
+1266;ultrafonoforeza
+1083;bioptron
+1319;kapiel siarkowa
+1501;masaz podwodny
+1338;diadynamik
+1132;oklady parafinowe
+1237;bicze szkockie
+1237;elektrostymulacja
+1507;bioptron
+1343;inhalacje pneumatyczne
+1163;gimnastyka oddechowa
+1501;gimnastyka oddechowa
+1229;kapiel borowinowa
+1233;kapiel solankowa
+1084;diadynamik
+1083;gimnastyka oddechowa
+1223;gimnastyka oddechowa
+1336;bicze szkockie
+1461;masaz podwodny
+1209;kapiel solankowa
+1355;hipoterapia
+1159;kapiel borowinowa
+1111;fasony siarczkowe
+1253;bioptron
+1255;elektrostymulacja
+1059;kapiel solankowa
+1263;bicze szkockie
+1348;oklady parafinowe
+1139;gimnastyka oddechowa
+1472;elektrostymulacja
+1174;elektrostymulacja
+1371;krioterapia miejscowa
+1392;ultrafonoforeza
+1439;krioterapia miejscowa
+1336;sauna
+1346;inhalacje pneumatyczne
+1389;masaz podwodny
+1358;ultrafonoforeza
+1049;oklady parafinowe
+1199;ultrafonoforeza
+1255;gimnastyka oddechowa
+1517;fasony siarczkowe
+1064;masaz podwodny
+1506;hydrosun
+1311;masaz podwodny
+1160;kapiel siarkowa
+1486;kapiel solankowa
+1448;elektrostymulacja
+1089;bicze szkockie
+1413;bicze szkockie
+1424;bicze szkockie
+1298;kapiel borowinowa
+1403;fasony siarczkowe
+1290;hydrosun
+1365;fasony siarczkowe
+1244;kapiel siarkowa
+1160;hipoterapia
+1072;elektrostymulacja
+1253;ultrafonoforeza
+1206;masaz podwodny
+1156;krioterapia miejscowa
+1195;oklady parafinowe
+1493;masaz podwodny
+1292;gimnastyka oddechowa
+1174;kapiel solankowa
+1202;diadynamik
+1512;elektrostymulacja
+1490;hydrosun
+1073;diadynamik
+1081;bicze szkockie
+1223;krioterapia miejscowa
+1229;ultrafonoforeza
+1305;kapiel solankowa
+1406;kapiel borowinowa
+1509;inhalacje pneumatyczne
+1072;fasony siarczkowe
+1326;inhalacje pneumatyczne
+1307;kapiel borowinowa
+1259;bioptron
+1512;kapiel siarkowa
+1169;inhalacje solankowe
+1132;bioptron
+1441;inhalacje pneumatyczne
+1446;diadynamik
+1424;masaz podwodny
+1510;kapiel solankowa
+1257;bioptron
+1327;oklady parafinowe
+1156;bicze szkockie
+1151;kapiel borowinowa
+1178;hipoterapia
+1341;fasony siarczkowe
+1139;kapiel borowinowa
+1420;kapiel solankowa
+1124;sauna
+1242;oklady parafinowe
+1151;hydrosun
+1092;sauna
+1458;bioptron
+1236;diadynamik
+1316;fasony siarczkowe
+1379;krioterapia miejscowa
+1435;fasony siarczkowe
+1514;sauna
+1070;sauna
+1121;masaz podwodny
+1386;inhalacje pneumatyczne
+1056;bicze szkockie
+1463;elektrostymulacja
+1441;bicze szkockie
+1145;inhalacje solankowe
+1365;kapiel borowinowa
+1215;kapiel siarkowa
+1496;masaz podwodny
+1340;fasony siarczkowe
+1484;diadynamik
+1488;elektrostymulacja
+1383;inhalacje solankowe
+1270;krioterapia miejscowa
+1178;inhalacje pneumatyczne
+1472;sauna
+1386;hydrosun
+1064;inhalacje pneumatyczne
+1288;fasony siarczkowe
+1355;oklady parafinowe
+1406;masaz podwodny
+1369;hipoterapia
+1133;fasony siarczkowe
+1095;hipoterapia
+1374;diadynamik
+1132;bicze szkockie
+1358;kapiel siarkowa
+1129;bioptron
+1448;diadynamik
+1309;kapiel borowinowa
+1504;hydrosun
+1092;oklady parafinowe
+1382;kapiel solankowa
+1444;hipoterapia
+1198;gimnastyka oddechowa
+1270;bioptron
+1346;kapiel borowinowa
+1509;masaz podwodny
+1393;hydrosun
+1183;kapiel borowinowa
+1475;inhalacje solankowe
+1192;masaz podwodny
+1424;bioptron
+1366;sauna
+1127;ultrafonoforeza
+1163;kapiel solankowa
+1441;diadynamik
+1050;elektrostymulacja
+1156;ultrafonoforeza
+1460;elektrostymulacja
+1443;gimnastyka oddechowa
+1156;elektrostymulacja
+1230;elektrostymulacja
+1520;hipoterapia
+1472;oklady parafinowe
+1144;bicze szkockie
+1295;gimnastyka oddechowa
+1073;kapiel solankowa
+1195;gimnastyka oddechowa
+1374;oklady parafinowe
+1095;diadynamik
+1374;kapiel solankowa
+1229;oklady parafinowe
+1145;kapiel siarkowa
+1304;gimnastyka oddechowa
+1514;kapiel solankowa
+1488;sauna
+1422;kapiel solankowa
+1379;kapiel borowinowa
+1298;krioterapia miejscowa
+1160;sauna
+1396;krioterapia miejscowa
+1135;hydrosun
+1340;ultrafonoforeza
+1172;gimnastyka oddechowa
+1381;krioterapia miejscowa
+1159;sauna
+1195;inhalacje pneumatyczne
+1255;masaz podwodny
+1480;kapiel borowinowa
+1485;hipoterapia
+1236;bicze szkockie
+1076;ultrafonoforeza
+1337;kapiel borowinowa
+1172;hydrosun
+1305;bicze szkockie
+1257;sauna
+1435;oklady parafinowe
+1369;kapiel siarkowa
+1311;hydrosun
+1154;kapiel solankowa
+1389;kapiel siarkowa
+1288;kapiel solankowa
+1192;kapiel siarkowa
+1215;kapiel solankowa
+1250;oklady parafinowe
+1230;diadynamik
+1072;hipoterapia
+1349;masaz podwodny
+1299;elektrostymulacja
+1376;bioptron
+1185;inhalacje solankowe
+1465;oklady parafinowe
+1086;bioptron
+1451;inhalacje solankowe
+1108;gimnastyka oddechowa
+1363;oklady parafinowe
+1498;fasony siarczkowe
+1059;bioptron
+1404;elektrostymulacja
+1512;fasony siarczkowe
+1290;bioptron
+1366;diadynamik
+1178;hydrosun
+1275;oklady parafinowe
+1072;hydrosun
+1368;oklady parafinowe
+1259;ultrafonoforeza
+1475;kapiel siarkowa
+1280;kapiel borowinowa
+1295;diadynamik
+1423;oklady parafinowe
+1475;gimnastyka oddechowa
+1454;elektrostymulacja
+1066;krioterapia miejscowa
+1069;fasony siarczkowe
+1403;hipoterapia
+1283;hipoterapia
+1049;sauna
+1129;oklady parafinowe
+1199;diadynamik
+1455;kapiel borowinowa
+1180;hipoterapia
+1140;elektrostymulacja
+1259;kapiel solankowa
+1438;krioterapia miejscowa
+1510;oklady parafinowe
+1413;bioptron
+1418;gimnastyka oddechowa
+1333;oklady parafinowe
+1108;oklady parafinowe
+1332;oklady parafinowe
+1065;kapiel borowinowa
+1332;sauna
+1416;kapiel solankowa
+1430;kapiel solankowa
+1501;bicze szkockie
+1136;bioptron

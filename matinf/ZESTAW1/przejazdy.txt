@@ -1,0 +1,11 @@
+nr_przejazdu;nr_skladu;data;stacja_pocz;czas_wyj;stacja_kon;czas_przyj
+501;104;15.07.2022;Warszawa Wschodnia;08:12:00;Berlin Hauptbahnhof;14:55:00
+502;106;15.07.2022;Warszawa Wschodnia;16:10:00;Berlin Hauptbahnhof;20:55:00
+503;109;15.07.2022;Gdynia;03:12:00;Jelenia Gora;13:12:00
+504;108;16.7.2022;Konin;05:12:00;Poznan;07:12:00
+505;108;16.7.2022;Poznan;12:12:00;Konin;16:44:00
+506;105;17.07.2022;Katowice;06:12:00;Gdynia;14:55:00
+507;103;17.07.2022;Poznan;08:10:00;Katowice;12:40:00
+508;101;18.07.2022;Poznan;05:12:00;Zielona Gora;08:12:00
+509;102;18.7.2022;Katowice;07:12:00;Gdynia;14:12:00
+510;108;18.7.2022;Poznan;12:12:00;Konin;16:44:00

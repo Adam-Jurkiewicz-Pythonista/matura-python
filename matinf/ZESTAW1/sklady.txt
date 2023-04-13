@@ -1,0 +1,11 @@
+nr_skladu;nazwa;lokomotywa
+101;Bachus;EP-07
+102;Zefir;EP-09
+103;Cegielski;EP-09
+104;Malczewski;EP-09
+105;Barbakan;EP-07
+106;Berolina;Husarz
+107;Berolina;Husarz
+108;Powstaniec Wielkopolski;EP-09
+109;Szklarka;EP-09
+110;Hetman;Pendolino

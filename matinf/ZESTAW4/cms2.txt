@@ -1,0 +1,23 @@
+a1;Algorytmika
+a1a1;Definicja algorytmu
+a1a2;Sposoby zapisu algorytmu
+a1a2a1;Opis słowny
+a1a2a2;Lista kroków
+a1a2a3;Schemat blokowy
+a1a2a4;Pseudokod
+a1a3;Rodzaje algorytmów
+a1a3a1;Algorytmy liniowe
+a1a3a2;Algorytmy warunkowe
+a1a3a3;Algorytmy iteracyjne
+a1a3a4;Algorytmy rekurencyjne
+a2;Budowa komputera
+a2a1;Płyta główna
+a2a2;Procesor
+a2a3;Pamięć operacyjna
+a2a4;Dysk twardy
+a2a5;Karty rozszerzeń
+a2a5a1;Karta graficzna
+a2a5a2;Karta dźwiękowa
+a2a5a3;Karty sieciowe
+a2a5a3a1;Karta sieciowa przewodowa
+a2a5a3a2;Karta sieciowa bezprzewodowa
