@@ -1,4 +1,6 @@
+# wczytujemy wszystkie informacje z pliku zewnętrznego, będziemy mogli z nich korzystać
 from dane import *
+print(przedmioty)
 
 with open("oceny.txt") as dane:
     dane_wczytane = dane.readlines()
